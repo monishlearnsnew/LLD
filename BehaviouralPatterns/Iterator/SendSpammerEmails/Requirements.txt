@@ -1,0 +1,2 @@
+1. you should able to send the spammer emails based on the network the user selects.
+2. you need to create profile for each of the network

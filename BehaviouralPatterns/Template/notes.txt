@@ -1,0 +1,5 @@
+Template pattern is mainly used when you want to follow certain steps always and to avoid code duplication
+
+Problems without this pattern:-
+1. Code duplication
+2. missing out some steps

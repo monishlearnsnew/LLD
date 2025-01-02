@@ -1,0 +1,7 @@
+classes shouldn't be burdened with methods it shouldn't implement
+
+
+Basically don't create a large interface , where the classes implementing those interface have to implement all the methods that is not required to be implemented by that class
+
+Instead divide the interface into diffferent interfaces and only implement those interfaces you need
+

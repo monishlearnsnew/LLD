@@ -1,0 +1,5 @@
+Structure of a command design pattern:-
+1. Command :- interface
+2. Invoker:- send an command (Button)
+3. Receiver:- Performs an invocation (TextEditor)
+

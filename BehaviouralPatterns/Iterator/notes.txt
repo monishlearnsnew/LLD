@@ -1,0 +1,1 @@
+Iterator design pattern is usually used to provide a common interface to the client to traverse any kind of collections be it interface, array or hashmap;

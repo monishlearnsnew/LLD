@@ -1,0 +1,7 @@
+Software entities (functions,modules,classes) should be open for extension and closed for modification
+
+
+Example:- Adding new functionality to a system using inheritance or composition
+
+
+CODE IS SAME AS OOPS BASICS :- payment service

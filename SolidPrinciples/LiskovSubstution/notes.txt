@@ -1,0 +1,2 @@
+objects of a superclass should be replacable with objects of a subclass without altering the correctness of the program.
+ 
